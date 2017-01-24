@@ -63,9 +63,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-war-plugin</artifactId>
-				<configuration>
-					<outputDirectory>D:\glarimy\programs\apache-tomcat-8.5.9\webapps</outputDirectory>
-				</configuration>
+				
 			</plugin>
 		</plugins>
 	</build>
